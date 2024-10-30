@@ -68,6 +68,6 @@ knitr::include_graphics(url)
 # Knit Commands
 
 ## README
-``` {r}
+``` {r, results = FALSE}
 knitr::knit(input = here::here("README.Rmd"), output = here::here("README.md"))
 ```
