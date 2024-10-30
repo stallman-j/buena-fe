@@ -1,17 +1,4 @@
----
-title: "Buena Fé: README"
-layout: single
-toc: true
-toc_label: "Contents"
-toc_sticky: true
-author_profile: true
-date: "2024-10-22"
-output: rmarkdown::html_vignette
-vignette: >
-  %\VignetteIndexEntry{basic-mapping}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
----
+
 
 
 
@@ -26,6 +13,6 @@ Nothing stops us from selecting our project name in this manner, however!
 Buena Fé was chosen among Ecuador's cantons at random. You can see a vignette of the R code which implemented this randomization [here](https://stallman-j.github.io/ekonomR/vignettes/basic-mapping/).
 
 <div class="figure">
-<img src="https://github.com/stallman-j/buena-fe/blob/main/output/03_maps/Ecuador_with_1_at-gadm-level_2_randomly-chosen.png?raw=true" alt="plot of chunk unnamed-chunk-3" width="100%" />
-<p class="caption">plot of chunk unnamed-chunk-3</p>
+<img src="https://github.com/stallman-j/buena-fe/blob/main/output/03_maps/Ecuador_with_1_at-gadm-level_2_randomly-chosen.png?raw=true" alt="Buena Fé in Ecuador" width="100%" />
+<p class="caption">Buena Fé in Ecuador</p>
 </div>
