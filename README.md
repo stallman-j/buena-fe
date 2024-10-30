@@ -1,3 +1,18 @@
+---
+title: "Buena Fé: README"
+layout: single
+toc: true
+toc_label: "Contents"
+toc_sticky: true
+author_profile: true
+date: "2024-10-22"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{basic-mapping}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
 
 
 # Buena Fé
