@@ -1,0 +1,21 @@
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# Buena Fé
+
+This is a GitHub repository holding public collaboration documentation and code for a collaborative project regarding transparency in Ecuador, institutional capacity, and citizen involvement between the [Inter-American Development Bank Andean Group](https://www.iadb.org/en/who-we-are/how-we-are-organized/departments-offices-and-sectors/country-department-andean-group) (liaised by Osmel Manzano and Daniela Valdivia), [FARO](https://grupofaro.org/areas-de-trabajo/extrayendo-transparencia/) and Yale University (with [Jillian Stallman, PhD Candidate in Economics as the liaison](https://stallman-j.github.io/)). 
+
+The title of this repo borrows from an ideal vision of the project: to determine the effect of a particular initiative, one would ideally select geographical units at random. In practice, this is rarely feasible in such a simple way. However, we were able to achieve this in the naming process. Buena Fé was chosen among Ecuador's cantons at random.
+
+```{r, echo = FALSE}
+url <- paste0("https://github.com/stallman-j/buena-fe/blob/main/output/03_maps/",paste0(country_name, "_with_",num_localities,"_at-gadm-level_",level,"_randomly-chosen.png"),"?raw=true")
+
+knitr::include_graphics(url)
+
+```
