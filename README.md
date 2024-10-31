@@ -21,6 +21,11 @@ Buena Fé was therefore chosen among Ecuador's 221 cantons at random. We think i
 You can see a vignette of the R code which implemented this randomization [here](https://stallman-j.github.io/ekonomR/vignettes/basic-mapping/).
 
 <div class="figure">
-<img src="https://github.com/stallman-j/buena-fe/blob/main/output/03_maps/Ecuador_with_1_at-gadm-level_2_randomly-chosen.png?raw=true" alt="Buena Fé in Ecuador" width="100%" />
-<p class="caption">Buena Fé in Ecuador</p>
+<img src="https://github.com/stallman-j/buena-fe/blob/main/output/03_maps/Ecuador_with_1_at-gadm-level_2_randomly-chosen.png?raw=true" alt="Buena Fé in Ecuador, chosen at random" width="100%" />
+<p class="caption">Buena Fé in Ecuador, chosen at random</p>
+</div>
+
+<div class="figure">
+<img src="https://github.com/stallman-j/buena-fe/blob/main/documents/pictures/2015-05-29_chugchilan_stallman.png?raw=true" alt="Chugchilán, a town in Sigchos canton, not chosen at random" width="100%" />
+<p class="caption">Chugchilán, a town in Sigchos canton, not chosen at random</p>
 </div>
