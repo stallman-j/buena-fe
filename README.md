@@ -26,6 +26,6 @@ You can see a vignette of the R code which implemented this randomization [here]
 </div>
 
 <div class="figure">
-<img src="https://github.com/stallman-j/buena-fe/blob/main/documents/pictures/2015-05-29_chugchilan_stallman.png?raw=true" alt="Chugchilán, a town in Sigchos canton, not chosen at random" width="100%" />
+<img src="https://github.com/stallman-j/buena-fe/blob/main/documents/pictures/old-pics_2015/2015-05-29_chugchilan_stallman.jpg?raw=true" alt="Chugchilán, a town in Sigchos canton, not chosen at random" width="100%" />
 <p class="caption">Chugchilán, a town in Sigchos canton, not chosen at random</p>
 </div>
