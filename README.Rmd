@@ -11,8 +11,7 @@ knitr::opts_chunk$set(
 
 # Buena Fé
 
-This is a GitHub repository holding public collaboration documentation and code for a collaborative project in Ecduador regarding transparency, institutional capacity, and citizen involvement between the [Inter-American Development Bank Andean Group](https://www.iadb.org/en/who-we-are/how-we-are-organized/departments-offices-and-sectors/country-department-andean-group) (liaised by Osmel Enrique Manzano and Daniela Sofia Valdivia Llerena), [FARO](https://grupofaro.org/areas-de-trabajo/extrayendo-transparencia/), a number of municipal governments, and Yale University (with [J Stallman, PhD Candidate in Economics liaising](https://stallman-j.github.io/)). 
-
+This is a GitHub repository holding public collaboration documentation and code for a collaborative project in Ecduador regarding transparency, institutional capacity, and citizen involvement between the [Inter-American Development Bank Andean Group](https://www.iadb.org/en/who-we-are/how-we-are-organized/departments-offices-and-sectors/country-department-andean-group), [FARO](https://grupofaro.org/areas-de-trabajo/extrayendo-transparencia/), [GIZ](https://www.giz.de/en/html/index.html), and the [Yale Research Initiative on Innovation & Scale](https://yrise.yale.edu/). 
 
 # Accessing the working documents cloud folder
 
@@ -30,7 +29,9 @@ To see a vignette for getting set up with pCloud, see [here](https://stallman-j.
 
 ## Why Buena Fé?
 
-To determine the effect of a particular intervention, one would ideally implement the treatment in randomly selected units throughout the population of interest. For this particular project, we'll be working with municipalities in Ecuador. The pilot will involve collaboration with five mid-sized municipalities to implement a transparency platform designed by [FARO](https://grupofaro.org/). Because five municipalities is a little small to run an assessment at the municipality level, we're designing surveys to test the efficacy of the platform at a smaller scale with real people and real-world outcomes - whether at the level of the household, the classroom, or the neighborhood.
+To determine the effect of a particular intervention, one would ideally implement the treatment in randomly selected units throughout the population of interest. For this particular project, our partners will be working with municipalities in Ecuador. 
+
+The pilot will involve collaboration with five mid-sized municipalities to implement a transparency platform designed by [FARO](https://grupofaro.org/). Because five municipalities would be a little difficult to run an assessment at the municipality level, Y-RISE is helping to design an evaluation of the program at a different scale - at the level of the household or the neighborhood, say - with real-world outcomes.
 
 Once we've determined from the pilot phase of the project how best to design the platform and its rollout so it can help improve the relationship between the government and the citizenry, we'll use what we've learned to roll the program out nationally.
 
