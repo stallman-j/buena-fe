@@ -13,17 +13,30 @@ knitr::opts_chunk$set(
 
 This is a GitHub repository holding public collaboration documentation and code for a collaborative project in Ecduador regarding transparency, institutional capacity, and citizen involvement between the [Inter-American Development Bank Andean Group](https://www.iadb.org/en/who-we-are/how-we-are-organized/departments-offices-and-sectors/country-department-andean-group) (liaised by Osmel Enrique Manzano and Daniela Sofia Valdivia Llerena), [FARO](https://grupofaro.org/areas-de-trabajo/extrayendo-transparencia/), a number of municipal governments, and Yale University (with [J Stallman, PhD Candidate in Economics liaising](https://stallman-j.github.io/)). 
 
-If you're a collaborator on this project working with internal documentation and need access to files *not* housed in this repo, you should first get an account with [PCloud](https://www.pcloud.com/), a virtual drive that's like Dropbox but with nicer storage properties. Also download the Pcloud drive so that you can edit and view folders locally on your computer. 
 
-Once you've done this, email [J](mailto:j.stallman@yale.edu) who will send you the share link for our folders.
+# Accessing the working documents cloud folder
+
+If you're an affiliate on this project working with internal documentation that requires you have access to files *not* housed in this repo, you should receive a link to the shared `buena-fe_internal-documents` folder (email [J](mailto:j.stallman@yale.edu) if you have not received one).
+
+This folder is shared through a cloud called "pCloud." It's similar to Dropbox and Box, in that there is a web interface and the option for a synced local drive.
+
+## Do I *need* an account?
+
+If you simply wish to have access to download, view, or upload files in the internal folder, you will *not* need a pCloud account, but you will need access to the folder's viewing link. Again, email J for this.
+
+## pCloud Setup
+
+To see a vignette for getting set up with pCloud, see [here](https://stallman-j.github.io/how-tos/pcloud-how-to/).
 
 ## Why Buena Fé?
 
-The title of this repository borrows from the "ideal thought experiment". To determine the effect of a particular intervention, one would ideally implement this intervention in randomly selected units. For this particular project, we'll be implementing a transparency initiative at the level of the canton (municipio) in Ecuador.
+To determine the effect of a particular intervention, one would ideally implement the treatment in randomly selected units throughout the population of interest. For this particular project, we'll be working with municipalities in Ecuador. The pilot will involve collaboration with five mid-sized municipalities to implement a transparency platform designed by [FARO](https://grupofaro.org/). Because five municipalities is a little small to run an assessment at the municipality level, we're designing surveys to test the efficacy of the platform at a smaller scale with real people and real-world outcomes - whether at the level of the household, the classroom, or the neighborhood.
 
-It's rarely feasible to randomly select a geography in which to implement an intervention. However, nothing's stopping us from selecting our project name in this manner! 
+Once we've determined from the pilot phase of the project how best to design the platform and its rollout so it can help improve the relationship between the government and the citizenry, we'll use what we've learned to roll the program out nationally.
 
-Buena Fé was therefore chosen among Ecuador's 221 cantons at random. We think it's an auspicious sign.
+In a perfectly controlled world, this ultimate implementation would also be done randomly, but now the intervention would be randomized to the level of the municipality.
+
+In this spirit, we chose the name "Buena Fé" from among Ecuador's 221 cantons at random. We think it's an auspicious sign.
 
 You can see a vignette of the R code which implemented this randomization [here](https://stallman-j.github.io/ekonomR/vignettes/basic-mapping/).
 
